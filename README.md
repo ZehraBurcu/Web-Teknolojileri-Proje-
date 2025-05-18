@@ -4,4 +4,4 @@ Commit atmayı yeniden tekrar ettim. Dün index.htm yazmıştım. Bugün ise say
 Arka planda kullanacağım resmi oluşturdum. Ve sitemin CV kısmını yazdım.
 İlgi alanlarını da ekledim.
 İlgi alanlarına API yerleştirdim bu kısım biraz uğraştırdı.
-
+Cv kısmını yazdım.
