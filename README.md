@@ -5,3 +5,4 @@ Arka planda kullanacağım resmi oluşturdum. Ve sitemin CV kısmını yazdım.
 İlgi alanlarını da ekledim.
 İlgi alanlarına API yerleştirdim bu kısım biraz uğraştırdı.
 Cv kısmını yazdım.
+İletişim formunu yazdım.
