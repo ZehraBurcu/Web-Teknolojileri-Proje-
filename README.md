@@ -6,4 +6,5 @@ Arka planda kullanacağım resmi oluşturdum. Ve sitemin CV kısmını yazdım.
 İlgi alanlarına API yerleştirdim bu kısım biraz uğraştırdı.
 Cv kısmını yazdım.
 İletişim formunu yazdım.
-Projenşn başında düzenlediğim bilgileri siteme ekledim.
+Projenin başında düzenlediğim bilgileri siteme ekledim.
+Sitenin hosting kısmını yaptım.
