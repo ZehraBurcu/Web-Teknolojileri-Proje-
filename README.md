@@ -8,3 +8,4 @@ Cv kısmını yazdım.
 İletişim formunu yazdım.
 Projenin başında düzenlediğim bilgileri siteme ekledim.
 Sitenin hosting kısmını yaptım.
+Sitenin hosting kısmında bir problemi halletim.
