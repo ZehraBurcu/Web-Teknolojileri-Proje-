@@ -9,3 +9,4 @@ Cv kısmını yazdım.
 Projenin başında düzenlediğim bilgileri siteme ekledim.
 Sitenin hosting kısmını yaptım.
 Sitenin hosting kısmında bir problemi halletim.
+Log in kısmını yazdım.
