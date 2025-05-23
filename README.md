@@ -10,3 +10,4 @@ Projenin başında düzenlediğim bilgileri siteme ekledim.
 Sitenin hosting kısmını yaptım.
 Sitenin hosting kısmında bir problemi halletim.
 Log in kısmını yazdım.
+Sitem nasıl çalışıyor diye kontrol ettim, pdfte istenenleri karşılıyor mu vs. diye.
